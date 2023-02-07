@@ -1,0 +1,245 @@
+
+.flex{
+    display: flex;
+    flex-direction: row;
+}
+
+.fill{
+    background-size: cover;
+}
+
+.background1{
+    background-image: url('./pictures/backgroundforprojectPM_cleanup.png');
+    height: 857px;
+    background-size: cover;
+    margin-left: -1rem;
+    margin-right: -1rem;
+    margin-top: -1rem;
+}
+
+.logo{
+    margin-left: 2rem;
+    margin-top: 1.2rem;
+    height: 50px;
+}
+
+.list-style{
+    color: white;
+    list-style: none;
+    font-size: 24px;
+    margin-top: 1.7rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ 
+
+.a-style{
+    color: white;
+    text-decoration: none;
+}
+
+ul li{
+    display: inline;
+   margin-left: 2rem;
+}
+
+.mx{
+    margin-left: 10rem;
+    
+}
+
+.flex-btn{
+    flex-direction: column !important;
+}
+
+.btn-1{
+    margin-left: 13rem;
+    margin-top: 1.2rem;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    padding-top: 1rem;
+    padding-left: 0.5rem;
+    padding-bottom: 1rem;
+    padding-right: 0.5rem;
+    background: url("./pictures/bgbuttonPM_cleanup.png");
+    background-size: cover;
+    border: none;
+}
+
+.btn-2{
+    margin-top: 1.1rem;
+    margin-left: 0rem;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+    background: url("./pictures/bgforbtn2.png");
+    background-size: cover;
+    border: none;
+}
+
+.btn-1:hover{
+    background: url("./pictures/bgforbtn2.png");
+}
+
+.btn-2:hover{
+    background: url("./pictures/bgforbtn2.png");
+}
+
+.px-auto{
+    padding-left: 18rem;
+}
+
+.h1-style{
+    font-size: 65px;
+    color: white;
+   padding-top: 4rem;
+   padding-bottom: -5rem;
+   margin-bottom: -2rem;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+.padding{
+    padding-left: 23rem;
+    padding-top: -2rem;
+    font-size: 65px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.styling{
+    font-style: normal;
+    color: blueviolet;
+}
+
+.para-style{
+    padding-top: 4rem;
+    padding-bottom: 2rem;
+    padding-left: 20rem;
+    font-size: 22px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+}
+
+.bottom-para-style{
+    padding-left: 4rem;
+    color: white;
+    font-style: normal;
+}
+
+.img-style{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 05%;
+    margin-top: 2rem;
+    max-width: 100%;
+    height: auto;
+    width: 1000px;
+}
+
+
+.background2{
+    background-image: url('./pictures/background2.png');
+    background-size: cover;
+    height: 800px;
+}
+
+.styling-image{
+    width: 1600px;
+    margin-top: 33rem;
+    margin-left: -5rem;
+}
+
+.styling-2{
+    margin: 5rem;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.styling-3{
+    font-size: 20px;
+    color: rgb(195, 199, 195);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 5.1rem;
+    margin-top: -3rem;
+}
+
+
+.custom-stlying{
+    list-style: circle;
+}
+.styling-list-2{
+    margin-left: 2.5rem;
+    font-size: 22px;
+    color: rgb(194, 196, 194);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn-3{
+    font-family: Arial, Helvetica, sans-serif;
+    background: url("./pictures/bgforbtn2.png");
+    font-size: 20px;
+    color: white;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    padding-left: 1rem;
+    padding-right: 1rem;
+    border-radius: 10px;
+    border: none;
+    margin-left: 6rem;
+    margin-top: 3rem;
+}
+
+.pic-style{
+    width: 620px;
+    height: 520px;
+    margin-left: 48rem;
+    margin-top: -39rem;
+}
+
+.picture-2-styling{
+    width: 650px;
+    height: 520px;
+    margin-top: 10rem;
+    margin-left: 1rem;
+}
+
+.second-area{
+    display: flex;
+    flex-direction: row;
+}
+
+.title-styling{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -30rem;
+    margin-left: 46rem;
+}
+
+.title-styling-2{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: -1rem;
+    margin-left: 46rem;
+}
+
+
+.para-styling{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(197, 200, 197);
+    font-size: 25px;
+    margin-left: 46rem;
+    margin-top: 3rem;
+}
+
+.cheating-style{
+    height: 120px;
+    margin-left: 45.5rem;
+    margin-top: 2rem;
+    
+}
